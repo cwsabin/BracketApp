@@ -13,4 +13,4 @@ TBD
 # Authors
 
 Chris Sabin <christopherwsabin@gmail.com>
-Patrick Yu <cutiepie69@gmail.com>
+Patrick Yu <yu.patrick17@gmail.com>
